@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+#root {
+  max-width: screen;
+  margin: 0 auto;
+  padding: 0;
+  text-align: center;
+}
+
